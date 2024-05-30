@@ -9,7 +9,10 @@ The dataset used in this project is provided by StatsBomb and includes detailed 
 **Teams**: Nigeria vs Ivory Coast
 # Usage
 Please follow the instructions below to utilize the data and reproduce the analysis
-1. clone the repository
+1. clone the repository<br>
+
 git clone https://github.com/gerald77-droid/Progressive-passes-Heat-Maps.git<br>
+
 2.Navigate to the project directory<br>
+
 cd Progressive-passes-Heat-Map
